@@ -1,4 +1,21 @@
-body{
+body {
   background-color: peachpuff;
   color: rebeccapurple;
+}
+
+.banner {
+  background-color: papayawhip;
+  margin: 15px;
+  padding: 10px;
+  border: 3px solid lightgoldenrodyellow;
+  box-shadow: 1px 3px 30px 1px papayawhip;
+  text-transform: capitalize;
+  text-shadow: 1px 1px papayawhip;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 140px;
+  color: #ffc694;
+  outline-offset: 1px;
+  outline: groove 2px papayawhip;
+  text-align: left;
+  font-size: 0.5em;
 }
